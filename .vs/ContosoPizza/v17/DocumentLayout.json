@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ContosoPizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|d:\\contosopizza\\contosopizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|d:\\contosopizza\\contosopizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|d:\\contosopizza\\contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|d:\\contosopizza\\contosopizza\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|d:\\contosopizza\\contosopizza\\models\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|d:\\contosopizza\\contosopizza\\contosopizza.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\contosopizza.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|d:\\contosopizza\\contosopizza\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|d:\\contosopizza\\contosopizza\\models\\populatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\populatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|d:\\contosopizza\\contosopizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|d:\\contosopizza\\contosopizza\\migrations\\20240805080238_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F711811E-2A8B-443D-9973-170E8D2E3846}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\migrations\\20240805080238_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContosoPizza.http",
+              "DocumentMoniker": "D:\\ContosoPizza\\ContosoPizza\\ContosoPizza.http",
+              "RelativeDocumentMoniker": "ContosoPizza\\ContosoPizza.http",
+              "ToolTip": "D:\\ContosoPizza\\ContosoPizza\\ContosoPizza.http",
+              "RelativeToolTip": "ContosoPizza\\ContosoPizza.http",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwCEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-05T08:57:15.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "D:\\ContosoPizza\\ContosoPizza\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Services\\PizzaService.cs",
+              "ToolTip": "D:\\ContosoPizza\\ContosoPizza\\Services\\PizzaService.cs",
+              "RelativeToolTip": "ContosoPizza\\Services\\PizzaService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:53:02.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ContosoPizza\\ContosoPizza\\appsettings.json",
+              "RelativeDocumentMoniker": "ContosoPizza\\appsettings.json",
+              "ToolTip": "D:\\ContosoPizza\\ContosoPizza\\appsettings.json",
+              "RelativeToolTip": "ContosoPizza\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T08:06:30.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaContext.cs",
+              "DocumentMoniker": "D:\\ContosoPizza\\ContosoPizza\\Models\\PizzaContext.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Models\\PizzaContext.cs",
+              "ToolTip": "D:\\ContosoPizza\\ContosoPizza\\Models\\PizzaContext.cs",
+              "RelativeToolTip": "ContosoPizza\\Models\\PizzaContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:57:08.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "D:\\ContosoPizza\\ContosoPizza\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Controllers\\PizzaController.cs",
+              "ToolTip": "D:\\ContosoPizza\\ContosoPizza\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "ContosoPizza\\Controllers\\PizzaController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:45:45.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ContosoPizza\\ContosoPizza\\Program.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Program.cs",
+              "ToolTip": "D:\\ContosoPizza\\ContosoPizza\\Program.cs",
+              "RelativeToolTip": "ContosoPizza\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:38:34.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\ContosoPizza\\ContosoPizza\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\WeatherForecast.cs",
+              "ToolTip": "D:\\ContosoPizza\\ContosoPizza\\WeatherForecast.cs",
+              "RelativeToolTip": "ContosoPizza\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:38:36.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PopulateDb.cs",
+              "DocumentMoniker": "D:\\ContosoPizza\\ContosoPizza\\Models\\PopulateDb.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Models\\PopulateDb.cs",
+              "ToolTip": "D:\\ContosoPizza\\ContosoPizza\\Models\\PopulateDb.cs",
+              "RelativeToolTip": "ContosoPizza\\Models\\PopulateDb.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:24:30.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240805080238_InitialCreate.cs",
+              "DocumentMoniker": "D:\\ContosoPizza\\ContosoPizza\\Migrations\\20240805080238_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Migrations\\20240805080238_InitialCreate.cs",
+              "ToolTip": "D:\\ContosoPizza\\ContosoPizza\\Migrations\\20240805080238_InitialCreate.cs",
+              "RelativeToolTip": "ContosoPizza\\Migrations\\20240805080238_InitialCreate.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:02:38.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "D:\\ContosoPizza\\ContosoPizza\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Models\\Pizza.cs",
+              "ToolTip": "D:\\ContosoPizza\\ContosoPizza\\Models\\Pizza.cs",
+              "RelativeToolTip": "ContosoPizza\\Models\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:51:42.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
